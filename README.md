@@ -1,1 +1,2 @@
-This is a demo for git and TDD.
+This is a demo for git and generics.
+
