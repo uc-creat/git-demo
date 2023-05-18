@@ -1,1 +1,1 @@
-This is a demo for git.
+This is a demo for git and generics.
